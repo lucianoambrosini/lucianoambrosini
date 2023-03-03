@@ -3,7 +3,6 @@
 </div>
 
 <br>
-<br>
 
 ✨ **“The effective length of life is given by the number of different days that an individual manages to live. Same ones don't count"**
 
