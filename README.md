@@ -1,11 +1,41 @@
-✨ **“The effective length of life is given by the number of different days that an individual manages to live. Same ones don't count"**
-<br>
-If you like these R&D experiments ⚗️, could you offer me a splendid [tazzulel e' cafè"](https://www.buymeacoffee.com/ambrosinus) ☕ (a Neapolitan little cup of espresso coffee) as my favourite fuel ⛽ which I convert into 💡 research, tools 🧰, workflows, video 🎞️, articles 📚... whatever ⚙️ could be helpful for architects and designers in the Digital Era.
+<h1 style="text-align: center; font-family: Roboto ; color: auto; border: 2px hidden black;">You are Welcome into my space!</h1>
 
-<div align="center">
-
-## You are Welcome into my space!
-</div>
-<div align="center">
+<p align="center">
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/03/Cover_GitHub2.png" width="100%" height="100%">
-</div>
+</p>
+
+<h6 style="text-align: left; font-family: Roboto ultralight ; color: auto; border: 2px hidden black;">✨ The effective length of life is given by the number of different days that an individual manages to live. Same ones don't count"
+If you like these R&D experiments ⚗️, could you offer me a splendid <a href="https://www.buymeacoffee.com/ambrosinus" target="_blank" title="Coffee time???" style="color: auto; font-weight: bold;">"tazzulel e' cafè"</a>☕ (a Neapolitan little cup of espresso coffee) as my favourite fuel ⛽ which I convert into 💡 research, tools 🧰, workflows, video 🎞️, articles 📚... whatever ⚙️ could be helpful for architects and designers in the Digital Era.</h6>
+
+### Hey there 👋,
+I am a PhD Architect 🎓📐👷🏻‍♂️, Computational Designer 🛠️ & Environmental Designer 🌦️🌍🌡️. I like coding 👨‍💻 sometimes in C#/Python🐍 or with Grasshopper-vanilla components...a sort of *Computational Alchemyst Architect* 🧙 my maxim is: Customizing the World! 💖. Here you will find a bit about me, my "garage" projects, and how to get in touch 💬.
+
+#### About me
+- 🚀 I started my academic journey as Aerospatial Engineer 🪐👨‍🚀
+- 🦗 Computational Designer. I have 9 years of experience as a passionate as self-taught. 
+- ⚗️ I am not a native-programmer. but as a "digital" architect/designer I like breaking & hacking the code to better perform/optimise the architectural projects and its design.
+- 💎 Sharing coffee time ☕ with people is the best friendship act It's precious for creativity and sharing knowledge!
+- 💖 I love Women ..ehm sorry 🤵 I would say complex things 😚. I'm fascinated by procedural geometry, morphogenesis, digital data design, AI and many other fields of knowledge and creativity.
+ 
+ #### Featured projects   
+| <!-- -->    | <!-- -->    | <!-- -->    |
+|:---------------------:|:---------------------:|:---------------------:|
+| [Ambrosinus Toolkit](https://www.food4rhino.com/en/app/ambrosinus-toolkit) | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/10/logo_AL_bottle_ATk-01.svg" width="30%" height="30%"> | *Personal toolkit developed for my challenges/works and still in WIP. Have a quick look [here](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/wiki) <br> Official Forum [Here on Discourse](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124?u=ambrosinus)*  |
+| [AmbrosinusDEV](https://github.com/lucianoambrosini/AmbrosinusDEV) | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/10/logo_AL_bottle-01.png" width="30%" height="30%"> | *Not only Grasshopper but all other coded projects. Have a quick look [here](https://github.com/lucianoambrosini/AmbrosinusDEV)* |
+| [Ambrosinus_Scripts](https://github.com/lucianoambrosini/Ambrosinus_Scripts) | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/08/RhGH-icons_2_puzzle_1.png" width="30%" height="30%"> | *Scripts repository, some useful codes* |
+| [ AToolkitDpt](https://github.com/lucianoambrosini/AToolkitDpt) | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/10/PackagePy_banner.png" width="26%" height="26%"> | *Python package for the "DPTto3D" component included in the Ambrosinus-Toolkit* |
+|
+
+#### Contact
+
+- 🌐 Official website: [www.lucianoambrosini.it](https://ambrosinus.altervista.org/)
+- 📨 Official email [luciano.ambrosini[at]outlook.com](luciano.ambrosini@outlook.com)
+- 📬 For a quick response (depending on availability) please contact me by [Discord](https://discord.com/users/731436905824124928) or [Twitter](https://twitter.com/Ambrosinus)
+- 🤝 Reach out to me on the [network](https://linktr.ee/ambrosinus)!
+- 👨‍💻 I am open to collaborations and opportunities aligned with my vision and interests as an Architect involved in the AEC industry/Fashion/and...
+- 🗺️ I give support for my projects and Grasshopper through the following Discord servers:
+
+ <a href="https://bit.ly/ATk-Discord" target="_blank" rel="noopener noreferrer"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/10/github_discord-banner-ATk.png" alt="Ambrosinus Discord Banner ATk"/></a>
+ <a href="https://bit.ly/AdevWinSD-Discord" target="_blank" rel="noopener noreferrer"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/10/github_discord-banner-Adev-WinSD.png" alt="Ambrosinus Discord Banner Adev-WinSDlauncher"/></a>
+
+
