@@ -29,7 +29,7 @@ I am a PhD Architect 🎓📐👷🏻‍♂️, Computational Designer 🛠️ &
 #### Contact
 
 - 🌐 Official website: [www.lucianoambrosini.it](https://ambrosinus.altervista.org/)
-- 📨 Official email [luciano.ambrosini[at]outlook.com](luciano.ambrosini@outlook.com)
+- 📨 Official email luciano.ambrosini@outlook.com
 - 📬 For a quick response (depending on availability) please contact me by [Discord](https://discord.com/users/731436905824124928) or [Twitter](https://twitter.com/Ambrosinus)
 - 🤝 Reach out to me on the [network](https://linktr.ee/ambrosinus)!
 - 👨‍💻 I am open to collaborations and opportunities aligned with my vision and interests as an Architect involved in the AEC industry/Fashion/and...
