@@ -37,5 +37,3 @@ I am a PhD Architect 🎓📐👷🏻‍♂️, Computational Designer 🛠️ &
 
  <a href="https://bit.ly/ATk-Discord" target="_blank" rel="noopener noreferrer"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/10/github_discord-banner-ATk.png" alt="Ambrosinus Discord Banner ATk"/></a>
  <a href="https://bit.ly/AdevWinSD-Discord" target="_blank" rel="noopener noreferrer"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/10/github_discord-banner-Adev-WinSD.png" alt="Ambrosinus Discord Banner Adev-WinSDlauncher"/></a>
-
-
