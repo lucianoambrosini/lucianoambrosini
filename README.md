@@ -18,7 +18,7 @@ I am a PhD Architect 🎓📐👷🏻‍♂️, Computational Designer 🛠️ &
 - 💖 I love Women ..ehm sorry 🤵 I would say complex things 😚. I'm fascinated by procedural geometry, morphogenesis, digital data design, AI and many other fields of knowledge and creativity.
  
  #### Featured projects   
-| <!-- -->    | <!-- -->    | <!-- -->    |
+| <!--PRJ -->    | <!--LOGO -->    | <!--DESCRIPTION -->    |
 |:---------------------:|:---------------------:|:---------------------:|
 | [Ambrosinus Toolkit](https://github.com/lucianoambrosini/Ambrosinus-Toolkit) | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/10/logo_AL_bottle_ATk-01.svg" width="30%" height="30%"> | *Personal toolkit developed for my challenges/works and still in WIP. Have a quick look [here](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/wiki) <br> Official Forum [Here on Discourse](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124?u=ambrosinus) <br> [Academic Research](https://bit.ly/ATk-ResearchPRJs) in which it is involved*  |
 | [AmbrosinusDEV](https://github.com/lucianoambrosini/AmbrosinusDEV) | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/10/logo_AL_bottle-01.png" width="30%" height="30%"> | *Not only Grasshopper but all other coded projects. Have a quick look [here](https://github.com/lucianoambrosini/AmbrosinusDEV)* |
