@@ -24,6 +24,7 @@ I am a PhD Architect 🎓📐👷🏻‍♂️, Computational Designer 🛠️ &
 | [AmbrosinusDEV](https://github.com/lucianoambrosini/AmbrosinusDEV) | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/10/logo_AL_bottle-01.png" width="30%" height="30%"> | *Not only Grasshopper but all other coded projects. Have a quick look [here](https://github.com/lucianoambrosini/AmbrosinusDEV)* |
 | [Ambrosinus_Scripts](https://github.com/lucianoambrosini/Ambrosinus_Scripts) | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/08/RhGH-icons_2_puzzle_1.png" width="30%" height="30%"> | *Scripts repository, some useful codes* |
 | [ AToolkitDpt](https://github.com/lucianoambrosini/AToolkitDpt) | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/10/PackagePy_banner.png" width="26%" height="26%"> | *Python package for the "DPTto3D" and "DPTSemSeg" components included in the Ambrosinus-Toolkit* |
+| [ ATk for ComfyUI](https://github.com/lucianoambrosini/ComfyUI-ATk-Nodes) | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/06/logo_ATk_ComfyUI.jpg" width="36%" height="36%"> | *A comprehensive collection of custom nodes and workflow enhancements for ComfyUI* |
 
 
 #### Contact
