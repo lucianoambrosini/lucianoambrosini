@@ -13,7 +13,7 @@ I am a PhD Architect 🎓📐👷🏻‍♂️, Computational Designer 🛠️ &
 #### About me
 - 🚀 I started my academic journey as an Aerospatial Engineer 🪐👨‍🚀
 - 🦗 Computational Designer. I have 9 years of experience as a passionate as self-taught. 
-- ⚗️ I am not a Programmer, but as an Architect navigating the complexities of the "Digital Era", I like “breaking and hacking” the CoDe to better perform/optimise the Architectural project and its design.
+- ⚗️ I am not a native Programmer, but as an Architect navigating the complexities of the "Digital Era", I like “breaking and hacking” the code to better perform/optimise the Architectural project and its design.
 - 💎 Sharing coffee time ☕ with people is the best friendship act. It's precious for creativity and sharing knowledge!
 - 💖 I love Women ..ehm sorry 🤵 I would say complex things 😚. I'm fascinated by procedural geometry, morphogenesis, digital data design, AI and many other fields of knowledge and creativity.
  
