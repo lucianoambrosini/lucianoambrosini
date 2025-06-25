@@ -11,10 +11,10 @@ If you like these R&D experiments ⚗️, could you offer me a splendid <a href=
 I am a PhD Architect 🎓📐👷🏻‍♂️, Computational Designer 🛠️ & Environmental Designer 🌦️🌍🌡️. I like coding 👨‍💻 sometimes in C#/Python🐍 or with Grasshopper-vanilla components...a sort of *Computational Alchemyst Architect* 🧙 my maxim is: Customizing the World! 💖. Here you will find a bit about me, my "garage" projects, and how to get in touch 💬.
 
 #### About me
-- 🚀 I started my academic journey as Aerospatial Engineer 🪐👨‍🚀
+- 🚀 I started my academic journey as an Aerospatial Engineer 🪐👨‍🚀
 - 🦗 Computational Designer. I have 9 years of experience as a passionate as self-taught. 
-- ⚗️ I am not a native-programmer. but as a "digital" architect/designer I like breaking & hacking the code to better perform/optimise the architectural projects and its design.
-- 💎 Sharing coffee time ☕ with people is the best friendship act It's precious for creativity and sharing knowledge!
+- ⚗️ I am not a Programmer, but as an Architect navigating the complexities of the "Digital Era", I like “breaking and hacking” the CoDe to better perform/optimise the Architectural project and its design.
+- 💎 Sharing coffee time ☕ with people is the best friendship act. It's precious for creativity and sharing knowledge!
 - 💖 I love Women ..ehm sorry 🤵 I would say complex things 😚. I'm fascinated by procedural geometry, morphogenesis, digital data design, AI and many other fields of knowledge and creativity.
  
 #### Featured projects 
