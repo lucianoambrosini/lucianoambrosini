@@ -33,7 +33,7 @@ I am a PhD Architect 🎓📐👷🏻‍♂️, Computational Designer 🛠️ &
 - 📨 Official email luciano.ambrosini@outlook.com
 - 📬 For a quick response (depending on availability) please contact me by [Discord](https://discord.com/users/731436905824124928) or [Twitter](https://twitter.com/Ambrosinus)
 - 🤝 Reach out to me on the [network](https://linktr.ee/ambrosinus)!
-- 📧 Newsletters [for keeping you in the ] (https://bit.ly/AmbrosinusDEVnewslettersSubscribe)
+- 📧 Newsletters [for keeping you in the ](https://bit.ly/AmbrosinusDEVnewslettersSubscribe)
 - 👨‍💻 I am open to collaborations and opportunities aligned with my vision and interests as an Architect involved in the AEC industry/Fashion/and...
 - 🗺️ I give support for my projects and Grasshopper through the following Discord servers:
 
