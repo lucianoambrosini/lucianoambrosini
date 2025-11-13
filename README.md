@@ -17,6 +17,13 @@ I am a PhD Architect 🎓📐👷🏻‍♂️, Computational Designer 🛠️ &
 - 💎 Sharing coffee time ☕ with people is the best friendship act. It's precious for creativity and sharing knowledge!
 - 💖 I love Women ..ehm sorry 🤵 I would say complex things 😚. I'm fascinated by procedural geometry, morphogenesis, digital data design, AI and many other fields of knowledge and creativity.
  
+#### Featured Manifesto
+
+| **TYPE** | **LOGO** | **DESCRIPTION** |
+|:---------------------:|:---------------------:|:---------------------:|
+| [**The Dev-sumer Vision: a Computational Design Manifesto**](https://github.com/lucianoambrosini/Computational-Design-Manifesto/) | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/11/logo_AL_black-alembic_100.png" width="30%" height="30%"> | *A manifesto for computational designers who build their own tools. 15 principles for architects who code, designers who build, and professionals who refuse to sacrifice life for work.* <br> **[📄 Download PDF](https://github.com/lucianoambrosini/Computational-Design-Manifesto/blob/main/Dev-sumer_Computational_Design_manifesto_v1.0.pdf)** • **[📜 Principles](https://bit.ly/Devsumer)** • **[📖 Full Article](https://lucianoambrosini.short.gy/dev-sumer-manifesto)**  |
+
+---
 #### Featured projects 
 | **PRJ** | **LOGO** | **DESCRIPTION** |
 |:---------------------:|:---------------------:|:---------------------:|
