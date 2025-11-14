@@ -21,7 +21,7 @@ I am a PhD Architect 🎓📐👷🏻‍♂️, Computational Designer 🛠️ &
 
 | **TYPE** | **LOGO** | **DESCRIPTION** |
 |:---------------------:|:---------------------:|:---------------------:|
-| [**The Dev-sumer Vision: a Computational Design Manifesto**](https://github.com/lucianoambrosini/Computational-Design-Manifesto/) | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/11/logo_AL_black-alembic_100.png" width="30%" height="30%"> | *A manifesto for computational designers who build their own tools. 15 principles for architects who code, designers who build, and professionals who refuse to sacrifice life for work.* <br> **[📄 Download PDF](https://github.com/lucianoambrosini/Computational-Design-Manifesto/blob/main/Dev-sumer_Computational_Design_manifesto_v1.0.pdf)** • **[📜 Principles](https://bit.ly/Devsumer)** • **[📖 Full Article](https://lucianoambrosini.short.gy/dev-sumer-manifesto)**  |
+| [**The Dev-sumer Vision: a Computational Design Manifesto**](https://github.com/lucianoambrosini/Computational-Design-Manifesto/) | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/11/logo_AL_black-alembic_100.png" width="30%" height="30%"> | *A manifesto for computational designers who build their own tools. 15 principles for architects who code, designers who build, and professionals who refuse to sacrifice life for work.* <br> **[📄 Download PDF in your language](https://github.com/lucianoambrosini/Computational-Design-Manifesto/tree/main/Computational%20Design%20Manifesto)** • **[📜 Principles](https://bit.ly/Devsumer)** • **[📖 Full Article](https://lucianoambrosini.short.gy/dev-sumer-manifesto)**  |
 
 ---
 #### Featured projects 
