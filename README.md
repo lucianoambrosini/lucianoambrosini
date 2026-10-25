@@ -1,7 +1,7 @@
 <h1 style="text-align: center; font-family: Roboto ; color: auto; border: 2px hidden black;">You are Welcome into my space! 🛰️🌌🚀</h1>
 
 <p align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/Cover_GitHub3_1.png" width="100%" height="270%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2026/10/Cover_GitHub_4.jpg" width="100%" height="270%">
 </p>
 
 <h6 style="text-align: left; font-family: Roboto ultralight ; color: auto; border: 2px hidden black;">✨ The effective length of life is given by the number of different days that an individual manages to live. Same ones don't count"
