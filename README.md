@@ -65,8 +65,13 @@ Digital Fab       │  Geometric Rationalization · Panelization · Tectile Arch
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucianoambrosini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=00e5ff&icon_color=ff2a85&text_color=e2e8f0" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoambrosini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=00e5ff&text_color=e2e8f0" height="150" alt="Top Languages" />
+  <p>
+    <img src="https://img.shields.io/github/followers/lucianoambrosini?label=Followers&style=for-the-badge&logo=github&color=00e5ff&labelColor=0a0e17" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/lucianoambrosini/Ambrosinus-Toolkit?label=ATk%20Stars&style=for-the-badge&logo=apachespark&color=ff2a85&labelColor=0a0e17" alt="ATk Stars" />
+    <img src="https://img.shields.io/github/stars/lucianoambrosini/Computational-Design-Manifesto?label=Manifesto%20Stars&style=for-the-badge&logo=readme&color=00e5ff&labelColor=0a0e17" alt="Manifesto Stars" />
+  </p>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=lucianoambrosini&theme=tokyonight&background=0a0e17&stroke=00e5ff&ring=ff2a85&fire=ff2a85&currStreakLabel=00e5ff&border_radius=8" alt="GitHub Streak" />
 </div>
 
 ---
