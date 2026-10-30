@@ -1,49 +1,83 @@
-<h1 style="text-align: center; font-family: Roboto ; color: auto; border: 2px hidden black;">You are Welcome into my space! 🛰️🌌🚀</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2026/10/Cover_GitHub_4.jpg" width="100%" height="270%">
-</p>
+  <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2026/10/Cover_GitHub_4.jpg" width="100%" alt="Luciano Ambrosini Banner" style="border-radius: 8px;" />
 
-<h6 style="text-align: left; font-family: Roboto ultralight ; color: auto; border: 2px hidden black;">✨ The effective length of life is given by the number of different days that an individual manages to live. Same ones don't count"
-If you like these R&D experiments ⚗️, could you offer me a splendid <a href="https://www.buymeacoffee.com/ambrosinus" target="_blank" title="Coffee time???" style="color: auto; font-weight: bold;">"tazzulel e' cafè"</a>☕ (a Neapolitan little cup of espresso coffee) as my favourite fuel ⛽ which I convert into 💡 research, tools 🧰, workflows, video 🎞️, articles 📚... whatever ⚙️ could be helpful for architects and designers in the Digital Era.</h6>
+  <br/><br/>
 
-### Hey there 👋,
-I am a PhD Architect 🎓📐👷🏻‍♂️, Computational Designer 🛠️ & Environmental Designer 🌦️🌍🌡️. I like coding 👨‍💻 sometimes in C#/Python🐍 or with Grasshopper-vanilla components...a sort of *Computational Alchemyst Architect* 🧙 my maxim is: Customizing the World! 💖. Here you will find a bit about me, my "garage" projects, and how to get in touch 💬.
+  # Luciano Ambrosini, Ph.D.
+  ### Computational Architect · DEV Software Developer · Environmental Design Specialist
+  
+  <p>
+    <a href="https://www.lucianoambrosini.it"><img src="https://img.shields.io/badge/Official_Website-lucianoambrosini.it-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" /></a>
+    <a href="https://www.food4rhino.com/en/app/ambrosinus-toolkit"><img src="https://img.shields.io/badge/Food4Rhino-Ambrosinus_Toolkit-ff2a85?style=for-the-badge&logo=rhinoceros&logoColor=white" alt="Food4Rhino" /></a>
+    <a href="https://silverhawk.pages.dev"><img src="https://img.shields.io/badge/Solver-SilverHawk-5ce6f2?style=for-the-badge&logoColor=black" alt="SilverHawk" /></a>
+    <a href="https://scholar.google.com/citations?user=4wLQCqoAAAAJ&hl=it"><img src="https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
+    <a href="https://orcid.org/0000-0003-1529-2694"><img src="https://img.shields.io/badge/ORCID-0000--0003--1529--2694-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+    <a href="https://www.linkedin.com/in/lucianoambrosini/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
 
-#### About me
-- 🚀 I started my academic journey as an Aerospatial Engineer 🪐👨‍🚀
-- 🦗 Computational Designer. I have 9 years of experience as a passionate as self-taught. 
-- ⚗️ I am not a native Programmer, but as an Architect navigating the complexities of the "Digital Era", I like “breaking and hacking” the code to better perform/optimise the Architectural project and its design.
-- 💎 Sharing coffee time ☕ with people is the best friendship act. It's precious for creativity and sharing knowledge!
-- 💖 I love Women ..ehm sorry 🤵 I would say complex things 😚. I'm fascinated by procedural geometry, morphogenesis, digital data design, AI and many other fields of knowledge and creativity.
- 
-#### Featured Manifesto
+  <p>
+    <i>"Customizing the World through Algorithmic Rigor & Environmental Performance."</i>
+  </p>
 
-| **TYPE** | **LOGO** | **DESCRIPTION** |
-|:---------------------:|:---------------------:|:---------------------:|
-| [**The Dev-sumer Vision: a Computational Design Manifesto**](https://github.com/lucianoambrosini/Computational-Design-Manifesto/) | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/11/logo_AL_black-alembic_100.png" width="70%" height="70%"> | *A manifesto for computational designers who build their own tools. 15 principles for architects who code, designers who build, and professionals who refuse to sacrifice life for work.* <br> **[📄 Download PDF in your language](https://github.com/lucianoambrosini/Computational-Design-Manifesto/tree/main/Computational%20Design%20Manifesto)** • **[📜 Principles](https://bit.ly/Devsumer)** • **[📖 Full Article](https://lucianoambrosini.short.gy/dev-sumer-manifesto)**  |
+</div>
 
 ---
-#### Featured projects 
-| **PRJ** | **LOGO** | **DESCRIPTION** |
-|:---------------------:|:---------------------:|:---------------------:|
-| [SilverHawk](https://silverhawk.pages.dev) | <img src="https://silverhawk.pages.dev/assets/img/logo-mark-128.png" width="30%" height="30%"> | *Optimization plug-in for Grasshopper (Rhino 8, C#): single- and multi-objective solvers built for small evaluation budgets, free of charge, coming soon to Food4Rhino.* <br> [Official website](https://silverhawk.pages.dev) |
-| [Ambrosinus Toolkit](https://github.com/lucianoambrosini/Ambrosinus-Toolkit) | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/10/logo_AL_bottle_ATk-01.svg" width="30%" height="30%"> | *Personal toolkit developed for my challenges/works and still in WIP. Have a quick look [here](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/wiki) <br> Official Forum [Here on Discourse](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124?u=ambrosinus) <br> [Academic Research](https://bit.ly/ATk-ResearchPRJs) in which it is involved*  |
-| [AmbrosinusDEV](https://github.com/lucianoambrosini/AmbrosinusDEV) | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/10/logo_AL_bottle-01.png" width="30%" height="30%"> | *Not only Grasshopper but all other coded projects. Have a quick look [here](https://github.com/lucianoambrosini/AmbrosinusDEV)* |
-| [Ambrosinus_Scripts](https://github.com/lucianoambrosini/Ambrosinus_Scripts) | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/08/RhGH-icons_2_puzzle_1.png" width="30%" height="30%"> | *Scripts repository, some useful codes* |
-| [ AToolkitDpt](https://github.com/lucianoambrosini/AToolkitDpt) | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/10/PackagePy_banner.png" width="30%" height="30%"> | *Python package for the "DPTto3D" and "DPTSemSeg" components included in the Ambrosinus-Toolkit* |
-| [ ATk for ComfyUI](https://github.com/lucianoambrosini/ComfyUI-ATk-Nodes) | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/06/logo_ATk_ComfyUI.jpg" width="30%" height="30%"> | *A comprehensive collection of custom nodes and workflow enhancements for ComfyUI* |
 
+### 🌐 About & Vision
 
-#### Contact
+I am an **Architect Ph.D., Computational Designer & DEV Software Developer** based between Naples and Milan, operating internationally. My work bridges complex parametric geometry, high-performance C# / .NET software development for CAD environments (Rhinoceros & Grasshopper), generative AI workflows, and environmental microclimatic simulations.
 
-- 🌐 Official website: [www.lucianoambrosini.it](https://ambrosinus.altervista.org/)
-- 📨 Official email luciano.ambrosini@outlook.com
-- 📬 For a quick response (depending on availability) please contact me by [Discord](https://discord.com/users/731436905824124928) or [Twitter](https://twitter.com/Ambrosinus)
-- 🤝 Reach out to me on the [network](https://linktr.ee/ambrosinus)!
-- 📧 Newsletters [for keeping you in the loop](https://bit.ly/AmbrosinusDEVnewslettersSubscribe)
-- 👨‍💻 I am open to collaborations and opportunities aligned with my vision and interests as an Architect involved in the AEC industry/Fashion/and...
-- 🗺️ I give support for my projects and Grasshopper through the following Discord servers:
+- 🏛️ **External Computational Consultant for i-Mesh**: Algorithmic engineering, geometric rationalization, and solar optimization for structural mineral textiles on flagship architecture (including **UNStudio One Helix**, **MCA Padiglione Italia Expo 2025 Osaka**, and **Expo Dubai**).
+- ⚙️ **Software & Tool Author**: Creator of the **Ambrosinus Toolkit (ATk)** for Grasshopper, **SilverHawk** multi-objective meta-heuristic solver, **Flatty**, and AI workflow integrations.
+- 🔬 **Academic & Applied Research**: Ph.D. in Architecture & Computational Design (Federico II). Author of peer-reviewed papers on algorithmic tectonics, Ladybug microclimate assessment, and the *Environmental Halftone* methodology for cultural heritage.
 
- <a href="https://bit.ly/ATk-Discord" target="_blank" rel="noopener noreferrer"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/10/github_discord-banner-ATk.png" alt="Ambrosinus Discord Banner ATk"/></a>
- <a href="https://bit.ly/AdevWinSD-Discord" target="_blank" rel="noopener noreferrer"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/10/github_discord-banner-Adev-WinSD.png" alt="Ambrosinus Discord Banner Adev-WinSDlauncher"/></a>
+Explore the complete portfolio, interactive papers graph, and tools suite on **[www.lucianoambrosini.it](https://www.lucianoambrosini.it)**.
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+```
+Languages & SDKs  │  C# (.NET) · Python · RhinoCommon SDK · Grasshopper SDK · C++
+Parametric CAD    │  Rhinoceros 3D · Grasshopper · McNeel Ecosystem
+Environmental     │  Ladybug Tools · Solar Radiation · Daylight Factor · Microclimate (UTCI)
+Optimization      │  Meta-heuristic Algorithms · NSGA-II · Multi-Objective Pareto Solvers
+AI & Generation   │  Stable Diffusion · ControlNet · ComfyUI Custom Nodes · LLM Agents in CAD
+Digital Fab       │  Geometric Rationalization · Panelization · Tectile Architecture
+```
+
+---
+
+### 🚀 Key Projects & Softwares
+
+| Project | Tech / Role | Highlights |
+| :--- | :--- | :--- |
+| **[SilverHawk](https://silverhawk.pages.dev)** | C# · Grasshopper · Rhino 8 | High-efficiency single & multi-objective meta-heuristic solver tailored for tight architectural evaluation budgets. |
+| **[Ambrosinus Toolkit (ATk)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit)** | C# · Python · GH | Multi-purpose plugin bridging AI generation (Diffusion, ControlNet), environmental analysis, and data utilities. [Get on Food4Rhino](https://www.food4rhino.com/en/app/ambrosinus-toolkit) |
+| **[i-Mesh Facade Engineering](https://www.lucianoambrosini.it/#progetti)** | Computational Consulting | Generative patterning, CAD/CAM automation, and solar shielding for mineral textile facades (One Helix UNStudio, Osaka 2025). |
+| **[The Dev-Sumer Manifesto](https://github.com/lucianoambrosini/Computational-Design-Manifesto)** | Open Manifesto | 15 principles for architects who code, designers who build, and professionals refusing to sacrifice life for work. |
+| **[AmbrosinusDEV Suite](https://github.com/lucianoambrosini/AmbrosinusDEV)** | C# .NET / Python | Standalone utilities, WinSDLauncher, Flatty, and custom scripts for computational workflows. |
+| **[ATk for ComfyUI](https://github.com/lucianoambrosini/ComfyUI-ATk-Nodes)** | Python · Nodes | Custom nodes and workflow enhancements connecting generative image pipelines with architectural models. |
+
+---
+
+### 📊 GitHub Activity & Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucianoambrosini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=00e5ff&icon_color=ff2a85&text_color=e2e8f0" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoambrosini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=00e5ff&text_color=e2e8f0" height="150" alt="Top Languages" />
+</div>
+
+---
+
+### ☕ Support & Contact
+
+- 🌐 **Official Website & Case Studies**: [www.lucianoambrosini.it](https://www.lucianoambrosini.it)
+- ✉️ **Direct Email**: [luciano.ambrosini@outlook.com](mailto:luciano.ambrosini@outlook.com)
+- 💬 **Discord Communities**: [ATk Discord](https://bit.ly/ATk-Discord) · [Adev-WinSD Discord](https://bit.ly/AdevWinSD-Discord)
+- ☕ **Support my open R&D**: Offer a Neapolitan espresso on [Buy Me a Coffee](https://www.buymeacoffee.com/ambrosinus)
+
+<p align="center">
+  <a href="https://bit.ly/ATk-Discord" target="_blank" rel="noopener noreferrer"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/10/github_discord-banner-ATk.png" alt="Ambrosinus Discord Banner ATk"/></a>
+</p>
