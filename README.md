@@ -44,7 +44,7 @@ Parametric CAD    │  Rhinoceros 3D · Grasshopper · McNeel Ecosystem
 Environmental     │  Ladybug Tools · Solar Radiation · Daylight Factor · Microclimate (UTCI)
 Optimization      │  Meta-heuristic Algorithms · NSGA-II · Multi-Objective Pareto Solvers
 AI & Generation   │  Stable Diffusion · ControlNet · ComfyUI Custom Nodes · LLM Agents in CAD
-Digital Fab       │  Geometric Rationalization · Panelization · Tectile Architecture
+Digital Fab       │  Geometric Rationalization · Panelization · Textile Architecture
 ```
 
 ---
