@@ -8,12 +8,12 @@
   ### Computational Architect · DEV Software Developer · Environmental Design Specialist
   
   <p>
-    <a href="https://www.lucianoambrosini.it"><img src="https://img.shields.io/badge/Official_Website-lucianoambrosini.it-00cfe6?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=151a1c" alt="Website" /></a>
-    <a href="https://www.food4rhino.com/en/app/ambrosinus-toolkit"><img src="https://img.shields.io/badge/Food4Rhino-Ambrosinus_Toolkit-ff75b5?style=for-the-badge&logo=rhinoceros&logoColor=white&labelColor=151a1c" alt="Food4Rhino" /></a>
-    <a href="https://silverhawk.pages.dev"><img src="https://img.shields.io/badge/Solver-SilverHawk-38dfed?style=for-the-badge&logoColor=black&labelColor=151a1c" alt="SilverHawk" /></a>
-    <a href="https://scholar.google.com/citations?user=4wLQCqoAAAAJ&hl=it"><img src="https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=151a1c" alt="Google Scholar" /></a>
-    <a href="https://orcid.org/0000-0003-1529-2694"><img src="https://img.shields.io/badge/ORCID-0000--0003--1529--2694-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=151a1c" alt="ORCID" /></a>
-    <a href="https://www.linkedin.com/in/lucianoambrosini/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=151a1c" alt="LinkedIn" /></a>
+    <a href="https://www.lucianoambrosini.it"><img src="https://img.shields.io/badge/Official_Website-lucianoambrosini.it-00818e?style=for-the-badge&logo=google-chrome&logoColor=1a2223&labelColor=eeece4" alt="Website" /></a>
+    <a href="https://www.food4rhino.com/en/app/ambrosinus-toolkit"><img src="https://img.shields.io/badge/Food4Rhino-Ambrosinus_Toolkit-b81c5d?style=for-the-badge&logo=rhinoceros&logoColor=1a2223&labelColor=eeece4" alt="Food4Rhino" /></a>
+    <a href="https://silverhawk.pages.dev"><img src="https://img.shields.io/badge/Solver-SilverHawk-009baa?style=for-the-badge&logoColor=1a2223&labelColor=eeece4" alt="SilverHawk" /></a>
+    <a href="https://scholar.google.com/citations?user=4wLQCqoAAAAJ&hl=it"><img src="https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=1a2223&labelColor=eeece4" alt="Google Scholar" /></a>
+    <a href="https://orcid.org/0000-0003-1529-2694"><img src="https://img.shields.io/badge/ORCID-0000--0003--1529--2694-82a92a?style=for-the-badge&logo=orcid&logoColor=1a2223&labelColor=eeece4" alt="ORCID" /></a>
+    <a href="https://www.linkedin.com/in/lucianoambrosini/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=1a2223&labelColor=eeece4" alt="LinkedIn" /></a>
   </p>
 
   <p>
@@ -62,9 +62,9 @@ Digital Fab       │  Geometric Rationalization · Panelization · Textile Arch
       <h4><a href="https://github.com/lucianoambrosini/Computational-Design-Manifesto">The Dev-sumer Vision: A Computational Design Manifesto</a></h4>
       <p><i>A manifesto for computational designers who build their own tools. 15 principles for architects who code, designers who build, and professionals refusing to sacrifice life for work.</i></p>
       <p>
-        <a href="https://github.com/lucianoambrosini/Computational-Design-Manifesto/tree/main/Computational%20Design%20Manifesto"><img src="https://img.shields.io/badge/PDF-Translations-ff75b5?style=flat-square&labelColor=151a1c&logo=adobeacrobatreader&logoColor=white" alt="Download PDF" /></a>
-        <a href="https://bit.ly/Devsumer"><img src="https://img.shields.io/badge/15%20Principles-Read%20Online-00cfe6?style=flat-square&labelColor=151a1c" alt="Principles" /></a>
-        <a href="https://lucianoambrosini.short.gy/dev-sumer-manifesto"><img src="https://img.shields.io/badge/Article-Full%20Essay-38dfed?style=flat-square&labelColor=151a1c" alt="Article" /></a>
+        <a href="https://github.com/lucianoambrosini/Computational-Design-Manifesto/tree/main/Computational%20Design%20Manifesto"><img src="https://img.shields.io/badge/PDF-Translations-b81c5d?style=flat-square&labelColor=eeece4&logo=adobeacrobatreader&logoColor=1a2223" alt="Download PDF" /></a>
+        <a href="https://bit.ly/Devsumer"><img src="https://img.shields.io/badge/15%20Principles-Read%20Online-00818e?style=flat-square&labelColor=eeece4" alt="Principles" /></a>
+        <a href="https://lucianoambrosini.short.gy/dev-sumer-manifesto"><img src="https://img.shields.io/badge/Article-Full%20Essay-3b4647?style=flat-square&labelColor=eeece4" alt="Article" /></a>
       </p>
     </td>
   </tr>
@@ -88,12 +88,12 @@ Digital Fab       │  Geometric Rationalization · Panelization · Textile Arch
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/github/followers/lucianoambrosini?label=Followers&style=for-the-badge&logo=github&color=00cfe6&labelColor=151a1c" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/lucianoambrosini/Ambrosinus-Toolkit?label=ATk%20Stars&style=for-the-badge&logo=apachespark&color=ff75b5&labelColor=151a1c" alt="ATk Stars" />
-    <img src="https://img.shields.io/github/stars/lucianoambrosini/Computational-Design-Manifesto?label=Manifesto%20Stars&style=for-the-badge&logo=readme&color=00cfe6&labelColor=151a1c" alt="Manifesto Stars" />
+    <img src="https://img.shields.io/github/followers/lucianoambrosini?label=Followers&style=for-the-badge&logo=github&logoColor=1a2223&color=00818e&labelColor=eeece4" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/lucianoambrosini/Ambrosinus-Toolkit?label=ATk%20Stars&style=for-the-badge&logo=apachespark&logoColor=1a2223&color=b81c5d&labelColor=eeece4" alt="ATk Stars" />
+    <img src="https://img.shields.io/github/stars/lucianoambrosini/Computational-Design-Manifesto?label=Manifesto%20Stars&style=for-the-badge&logo=readme&logoColor=1a2223&color=00818e&labelColor=eeece4" alt="Manifesto Stars" />
   </p>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=lucianoambrosini&background=0e1213&border=2c3638&stroke=00cfe6&ring=38dfed&fire=ff75b5&currStreakNum=f2f4ef&sideNums=c2cbcb&currStreakLabel=00cfe6&sideLabels=95a2a5&dates=7c8d91&border_radius=8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=lucianoambrosini&background=f7f6f0&border=d1d6ce&stroke=00818e&ring=00818e&fire=b81c5d&currStreakNum=1a2223&sideNums=3b4647&currStreakLabel=00818e&sideLabels=5e6b6c&dates=7c8d91&border_radius=8" alt="GitHub Streak" />
 </div>
 
 ---
