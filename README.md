@@ -32,50 +32,35 @@
 
 ---
 
-### 🏛️ About & Computational Practice
+### 🌐 About & Vision
 
-I am an **Architect Ph.D., Authorized Rhino Trainer (ART), and Computational Designer**, Principal of **LA Consulting**. Based between Naples, Milan, and operating internationally, I provide specialist consulting for architectural practices, engineering firms, and advanced digital manufacturers.
+I am an **Architect Ph.D., Authorized Rhino Trainer (ART), and Computational Designer**, Principal of **LA Consulting**. Based between Naples, Milan, and operating internationally, I provide specialist computational consulting for architectural practices, engineering firms, and advanced digital manufacturers.
 
-My methodology unifies complex parametric geometry, high-performance **C# / .NET** software engineering for the **Rhinoceros & Grasshopper** ecosystem, evolutionary multi-objective meta-heuristic solvers (**NSGA-II**), and environmental microclimatic simulations (**Daylight, Solar Radiation, UTCI**).
+My work unifies complex parametric geometry, high-performance **C# / .NET** software engineering for the **Rhinoceros & Grasshopper** ecosystem, evolutionary multi-objective meta-heuristic solvers (**NSGA-II**), and environmental microclimatic simulations (**Daylight, Solar Radiation, UTCI**).
 
-* **Algorithmic Engineering for Textile Envelopes**: Custom generative patterning, geometric rationalization, and performance verification of structural mineral fiber facades on flagship international architecture.
-* **Proprietary Solvers & DEV Software Ecosystem**: Author of the **SilverHawk** evolutionary multi-objective solver, the **Ambrosinus Toolkit (ATk)** suite for Grasshopper, the **WinSDLauncher** desktop orchestrator for Stable Diffusion WebUI, and the proprietary **EnviMeter** microclimate IoT hardware.
-* **Academic Research & Peer-Reviewed Publishing**: Ph.D. in Architecture & Computational Design (Università degli Studi di Napoli Federico II). Author of 18+ international peer-reviewed papers (Springer Nature, Nexus Network Journal, TU Delft) with 130+ scientific citations.
+- 🏛️ **Specialist Facade Consulting for i-Mesh**: Algorithmic engineering, geometric rationalization, and solar optimization for structural mineral textiles on flagship international architecture (including **UNStudio One Helix**, **MCA Padiglione Italia Expo 2025 Osaka**, and **Expo Dubai 2020 Pergola**).
+- ⚙️ **Proprietary Solvers & Software Author**: Creator of the **SilverHawk** evolutionary multi-objective solver, the **Ambrosinus Toolkit (ATk)** suite for Grasshopper, the **WinSDLauncher** desktop orchestrator for AUTOMATIC1111 Stable Diffusion WebUI, and the proprietary **EnviMeter** microclimate IoT hardware.
+- 🔬 **Academic & Applied Research**: Ph.D. in Architecture & Computational Design (Università degli Studi di Napoli Federico II). Author of 18+ international peer-reviewed papers (Springer Nature, Nexus Network Journal, TU Delft) with 130+ scientific citations.
 
-> 🌐 **Full Portfolio, Interactive Research Graph & Tools**: [www.lucianoambrosini.it](https://www.lucianoambrosini.it/)
-
----
-
-### 🔬 Selected Projects & Consulting Chain
-
-| Project / Work | Client & Supply Chain Hierarchy | Specialist Computational Consulting Scope (LA Consulting) |
-| :--- | :--- | :--- |
-| **[One Helix](https://www.lucianoambrosini.it/#progetti)**<br/><sub>Amsterdam UMC / Breakthrough Properties / UNStudio</sub> | Specialist computational and structural consultant **for manufacturer i-Mesh** | Generative algorithms for custom textile patterns, geometric rationalization of facade panels, and CAD/CAM automation for mineral fiber production. |
-| **[Italian Pavilion Expo 2025 Osaka](https://www.lucianoambrosini.it/#progetti)**<br/><sub>Mario Cucinella Architects (MCA)</sub> | Computational design and facade panel verification **for i-Mesh** | Parametric modeling of large-scale textile velaria, structural panel behavior verification, and daylight / solar permeability optimization. |
-| **[Expo Dubai 2020 Pergola](https://www.lucianoambrosini.it/#progetti)**<br/><sub>i-Mesh Shading System</sub> | Computational design and parametric pattern consulting **for i-Mesh** | Algorithmic generation of gradient density structural textile patterns for microclimatic solar radiation mitigation and thermal comfort. |
+Explore the complete portfolio, interactive papers graph, and tools suite on **[www.lucianoambrosini.it](https://www.lucianoambrosini.it)**.
 
 ---
 
-### ⚙️ DEV Ecosystem & Software Suite
+### 🚀 Featured Projects & Repositories
 
-```
-┌───────────────────────┬────────────────────────────────────────────────────────────────────────┐
-│ TOOL / SOFTWARE       │ TECHNICAL DESCRIPTION & HIGHLIGHTS                                     │
-├───────────────────────┼────────────────────────────────────────────────────────────────────────┤
-│ SilverHawk            │ Evolutionary multi-objective meta-heuristic solver (NSGA-II) for       │
-│                       │ Rhino 8 & Grasshopper, tailored for tight architectural budgets.      │
-│ Ambrosinus Toolkit    │ Multi-purpose compiled C# (.gha) & Python plugin for Grasshopper:      │
-│ (ATk)                 │ generative AI, environmental analysis, and CAD utilities (28k+ DLs).  │
-│ WinSDLauncher         │ Windows desktop launcher for AUTOMATIC1111 Stable Diffusion WebUI,     │
-│                       │ providing local REST API integration into RhinoCommon & Grasshopper.   │
-│ EnviMeter             │ Proprietary IoT device and firmware for in-situ microclimatic data     │
-│                       │ collection and sensor-to-model calibration with Ladybug Tools.         │
-└───────────────────────┴────────────────────────────────────────────────────────────────────────┘
-```
+| **PROJECT / REPOSITORY** | **LOGO** | **DESCRIPTION & HIGHLIGHTS** |
+| :--- | :---: | :--- |
+| **[The Dev-Sumer Manifesto](https://github.com/lucianoambrosini/Computational-Design-Manifesto)** | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/11/logo_AL_black-alembic_100.png" width="56" alt="Dev-Sumer Manifesto Logo" /> | *A manifesto for computational designers who build their own tools. 15 principles for architects who code, designers who build, and professionals who refuse to sacrifice life for work.* <br/> [📄 Read Manifesto](https://github.com/lucianoambrosini/Computational-Design-Manifesto) · [📜 Principles](https://bit.ly/Devsumer) · [📖 Full Article](https://lucianoambrosini.short.gy/dev-sumer-manifesto) |
+| **[SilverHawk](https://silverhawk.pages.dev)** | <img src="https://silverhawk.pages.dev/assets/img/logo-mark-128.png" width="56" alt="SilverHawk Logo" /> | *Evolutionary single & multi-objective meta-heuristic solver (MOO, NSGA-II) for Rhino 8 & Grasshopper (C# / .NET), engineered for tight architectural evaluation budgets and Pareto optimality.* <br/> [Official Website](https://silverhawk.pages.dev) · [Benchmark Paper](https://doi.org/10.48550/arXiv.2610.22397) |
+| **[Ambrosinus Toolkit (ATk)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit)** | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/10/logo_AL_bottle_ATk-01.svg" width="56" alt="Ambrosinus Toolkit Logo" /> | *Multi-purpose Grasshopper plugin (C# / .NET & Python) bridging generative AI (Diffusion, ControlNet), environmental analysis, and CAD automation. Over 28,000+ downloads on Food4Rhino.* <br/> [Get on Food4Rhino](https://www.food4rhino.com/en/app/ambrosinus-toolkit) · [Discourse McNeel Forum](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124?u=ambrosinus) · [User Guide v1.1](https://www.food4rhino.com/en/resource/atk-requirements-installation-user-guide-v11) |
+| **[AmbrosinusDEV Suite](https://github.com/lucianoambrosini/AmbrosinusDEV)** | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/10/logo_AL_bottle-01.png" width="56" alt="AmbrosinusDEV Logo" /> | *C# .NET & Python standalone tools, WinSDLauncher (Windows desktop orchestrator for AUTOMATIC1111 Stable Diffusion WebUI with local REST API bridge to Rhino/GH), and custom scripts.* <br/> [Explore AmbrosinusDEV](https://github.com/lucianoambrosini/AmbrosinusDEV) · [Research Lab](https://ambrosinus.altervista.org/blog/research-lab/) |
+| **[Ambrosinus_Scripts](https://github.com/lucianoambrosini/Ambrosinus_Scripts)** | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/08/RhGH-icons_2_puzzle_1.png" width="56" alt="Ambrosinus Scripts Logo" /> | *Curated collection of Grasshopper & Rhinoceros custom C# and Python scripts, CAD utilities, geometric rationalization routines, and parametric automation snippets.* <br/> [Browse Repository](https://github.com/lucianoambrosini/Ambrosinus_Scripts) |
+| **[AToolkitDpt](https://github.com/lucianoambrosini/AToolkitDpt)** | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/10/PackagePy_banner.png" width="70" alt="PackagePy Logo" /> | *Python support package powering the `DPTto3D` and `DPTSemSeg` depth estimation and semantic segmentation components included within the Ambrosinus-Toolkit.* <br/> [View on GitHub](https://github.com/lucianoambrosini/AToolkitDpt) |
+| **[ATk for ComfyUI](https://github.com/lucianoambrosini/ComfyUI-ATk-Nodes)** | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/06/logo_ATk_ComfyUI.jpg" width="56" alt="ComfyUI ATk Nodes Logo" /> | *A comprehensive collection of custom nodes and workflow enhancements connecting generative image pipelines with architectural models.* <br/> [Explore Nodes](https://github.com/lucianoambrosini/ComfyUI-ATk-Nodes) |
 
 ---
 
-### 💻 Computational Stack & Expertise
+### 🛠️ Tech Stack & Ecosystem
 
 ```
 Languages & SDKs      │  C# (.NET) · Python · RhinoCommon SDK · Grasshopper SDK · C++
@@ -87,7 +72,7 @@ Digital Fabrication   │  Geometric Rationalization · Panelization · Structur
 
 ---
 
-### 📊 Development Activity & Statistics
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
   <p>
@@ -104,16 +89,20 @@ Digital Fabrication   │  Geometric Rationalization · Panelization · Structur
 
 ---
 
-### 📬 Direct Channels & Official Portals
+### 📬 Direct Channels & Community
 
-* 🌐 **Main Portfolio & Case Studies**: [www.lucianoambrosini.it](https://www.lucianoambrosini.it/)
-* 🔬 **Research & R&D Hub**: [ambrosinus.altervista.org/blog](https://ambrosinus.altervista.org/blog/)
-* 🦏 **Food4Rhino McNeel Portal**: [Ambrosinus Toolkit (ATk)](https://www.food4rhino.com/en/app/ambrosinus-toolkit)
-* 🦅 **SilverHawk Solver Documentation**: [silverhawk.pages.dev](https://silverhawk.pages.dev/)
-* 💼 **LinkedIn Profile**: [linkedin.com/in/lucianoambrosini](https://www.linkedin.com/in/lucianoambrosini/)
-* 💬 **Discord Communities**: [ATk Discord Community](https://bit.ly/ATk-Discord) · [Adev-WinSD Discord](https://bit.ly/AdevWinSD-Discord)
-* ☕ **Support Open R&D**: [Buy Me a Coffee](https://www.buymeacoffee.com/ambrosinus)
-* ✉️ **Direct Email**: [luciano.ambrosini@outlook.com](mailto:luciano.ambrosini@outlook.com)
+- 🌐 **Official Website & Case Studies**: [www.lucianoambrosini.it](https://www.lucianoambrosini.it)
+- 🔬 **Research & R&D Hub**: [ambrosinus.altervista.org/blog](https://ambrosinus.altervista.org/blog/)
+- 🦏 **Food4Rhino McNeel Portal**: [Ambrosinus Toolkit (ATk)](https://www.food4rhino.com/en/app/ambrosinus-toolkit)
+- 🦅 **SilverHawk Solver Documentation**: [silverhawk.pages.dev](https://silverhawk.pages.dev/)
+- 💼 **LinkedIn Profile**: [linkedin.com/in/lucianoambrosini](https://www.linkedin.com/in/lucianoambrosini/)
+- 💬 **Discord Communities**: [ATk Discord Community](https://bit.ly/ATk-Discord) · [Adev-WinSD Discord](https://bit.ly/AdevWinSD-Discord)
+- ☕ **Support Open R&D**: Offer a Neapolitan espresso on [Buy Me a Coffee](https://www.buymeacoffee.com/ambrosinus)
+- ✉️ **Direct Email**: [luciano.ambrosini@outlook.com](mailto:luciano.ambrosini@outlook.com)
+
+<p align="center">
+  <a href="https://bit.ly/ATk-Discord" target="_blank" rel="noopener noreferrer"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/10/github_discord-banner-ATk.png" alt="Ambrosinus Discord Banner ATk"/></a>
+</p>
 
 <br/>
 
