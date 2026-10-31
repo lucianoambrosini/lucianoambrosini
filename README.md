@@ -17,7 +17,7 @@
   </p>
 
   <p>
-    <i>"Customizing the World through Algorithmic Rigor & Environmental Performance."</i>
+    <i>"Designing through code. Thinking beyond."</i>
   </p>
 
 </div>
