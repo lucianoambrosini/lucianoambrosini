@@ -13,8 +13,8 @@
     <a href="https://silverhawk.pages.dev"><img src="https://img.shields.io/badge/Solver-SilverHawk-009baa?style=for-the-badge&logoColor=1a2223&labelColor=eeece4" alt="SilverHawk" /></a>
     <a href="https://scholar.google.com/citations?user=4wLQCqoAAAAJ&hl=it"><img src="https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=1a2223&labelColor=eeece4" alt="Google Scholar" /></a>
     <a href="https://orcid.org/0000-0003-1529-2694"><img src="https://img.shields.io/badge/ORCID-0000--0003--1529--2694-82a92a?style=for-the-badge&logo=orcid&logoColor=1a2223&labelColor=eeece4" alt="ORCID" /></a>
-    <a href="https://www.wikidata.org/wiki/Q141936083"><img src="https://img.shields.io/badge/Wikidata-Q141936083-339999?style=for-the-badge&logo=wikidata&logoColor=1a2223&labelColor=eeece4" alt="Wikidata" /></a>
     <a href="https://www.linkedin.com/in/lucianoambrosini/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=1a2223&labelColor=eeece4" alt="LinkedIn" /></a>
+    <a href="https://www.wikidata.org/wiki/Q141936083" rel="me" title="Wikidata: Q141936083" aria-hidden="true"></a>
   </p>
 
   <p>
