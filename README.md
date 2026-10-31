@@ -51,14 +51,15 @@ Digital Fab       │  Geometric Rationalization · Panelization · Textile Arch
 
 ### 🚀 Key Projects & Softwares
 
-| Project | Tech / Role | Highlights |
-| :--- | :--- | :--- |
-| **[SilverHawk](https://silverhawk.pages.dev)** | C# · Grasshopper · Rhino 8 | High-efficiency single & multi-objective meta-heuristic solver tailored for tight architectural evaluation budgets. |
-| **[Ambrosinus Toolkit (ATk)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit)** | C# · Python · GH | Multi-purpose plugin bridging AI generation (Diffusion, ControlNet), environmental analysis, and data utilities. [Get on Food4Rhino](https://www.food4rhino.com/en/app/ambrosinus-toolkit) |
-| **[i-Mesh Facade Engineering](https://www.lucianoambrosini.it/#progetti)** | Computational Consulting | Generative patterning, CAD/CAM automation, and solar shielding for mineral textile facades (One Helix UNStudio, Osaka 2025). |
-| **[The Dev-Sumer Manifesto](https://github.com/lucianoambrosini/Computational-Design-Manifesto)** | Open Manifesto | 15 principles for architects who code, designers who build, and professionals refusing to sacrifice life for work. |
-| **[AmbrosinusDEV Suite](https://github.com/lucianoambrosini/AmbrosinusDEV)** | C# .NET / Python | Standalone utilities, WinSDLauncher, and custom scripts for computational workflows. |
-| **[ATk for ComfyUI](https://github.com/lucianoambrosini/ComfyUI-ATk-Nodes)** | Python · Nodes | Custom nodes and workflow enhancements connecting generative image pipelines with architectural models. |
+| Project | Logo | Tech / Role | Highlights |
+| :--- | :---: | :--- | :--- |
+| **[SilverHawk](https://silverhawk.pages.dev)** | <img src="https://silverhawk.pages.dev/assets/img/logo-mark-128.png" width="48" alt="SilverHawk Logo" /> | C# · Grasshopper · Rhino 8 | High-efficiency single & multi-objective meta-heuristic solver tailored for tight architectural evaluation budgets. |
+| **[Ambrosinus Toolkit (ATk)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit)** | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/10/logo_AL_bottle_ATk-01.svg" width="44" alt="Ambrosinus Toolkit Logo" /> | C# · Python · GH | Multi-purpose plugin bridging AI generation (Diffusion, ControlNet), environmental analysis, and data utilities. [Get on Food4Rhino](https://www.food4rhino.com/en/app/ambrosinus-toolkit) |
+| **[i-Mesh Facade Engineering](https://www.lucianoambrosini.it/#progetti)** | <img src="https://www.lucianoambrosini.it/assets/helix.jpg" width="58" style="border-radius: 4px;" alt="One Helix Facade" /> | Computational Consulting | Generative patterning, CAD/CAM automation, and solar shielding for mineral textile facades (One Helix UNStudio, Osaka 2025). |
+| **[The Dev-Sumer Manifesto](https://github.com/lucianoambrosini/Computational-Design-Manifesto)** | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/11/logo_AL_black-alembic_100.png" width="48" alt="Dev-Sumer Manifesto Logo" /> | Open Manifesto | 15 principles for architects who code, designers who build, and professionals refusing to sacrifice life for work. |
+| **[AmbrosinusDEV Suite](https://github.com/lucianoambrosini/AmbrosinusDEV)** | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/10/logo_AL_bottle-01.png" width="44" alt="AmbrosinusDEV Logo" /> | C# .NET / Python | Standalone utilities, WinSDLauncher, and custom scripts for computational workflows. |
+| **[Ambrosinus_Scripts](https://github.com/lucianoambrosini/Ambrosinus_Scripts)** | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/08/RhGH-icons_2_puzzle_1.png" width="48" alt="Ambrosinus Scripts Logo" /> | C# / Python · GH | Curated collection of Grasshopper & Rhinoceros custom scripts, CAD utilities, and parametric routines. |
+| **[ATk for ComfyUI](https://github.com/lucianoambrosini/ComfyUI-ATk-Nodes)** | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/06/logo_ATk_ComfyUI.jpg" width="48" style="border-radius: 4px;" alt="ComfyUI Nodes Logo" /> | Python · Nodes | Custom nodes and workflow enhancements connecting generative image pipelines with architectural models. |
 
 ---
 
