@@ -49,14 +49,35 @@ Digital Fab       │  Geometric Rationalization · Panelization · Textile Arch
 
 ---
 
+### 📜 Featured Manifesto
+
+<table>
+  <tr>
+    <td width="95" align="center" valign="middle">
+      <a href="https://github.com/lucianoambrosini/Computational-Design-Manifesto">
+        <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/11/logo_AL_black-alembic_100.png" width="75" alt="Dev-Sumer Manifesto Logo" />
+      </a>
+    </td>
+    <td>
+      <h4><a href="https://github.com/lucianoambrosini/Computational-Design-Manifesto">The Dev-sumer Vision: A Computational Design Manifesto</a></h4>
+      <p><i>A manifesto for computational designers who build their own tools. 15 principles for architects who code, designers who build, and professionals refusing to sacrifice life for work.</i></p>
+      <p>
+        <a href="https://github.com/lucianoambrosini/Computational-Design-Manifesto/tree/main/Computational%20Design%20Manifesto"><img src="https://img.shields.io/badge/PDF-Translations-ff75b5?style=flat-square&labelColor=151a1c&logo=adobeacrobatreader&logoColor=white" alt="Download PDF" /></a>
+        <a href="https://bit.ly/Devsumer"><img src="https://img.shields.io/badge/15%20Principles-Read%20Online-00cfe6?style=flat-square&labelColor=151a1c" alt="Principles" /></a>
+        <a href="https://lucianoambrosini.short.gy/dev-sumer-manifesto"><img src="https://img.shields.io/badge/Article-Full%20Essay-38dfed?style=flat-square&labelColor=151a1c" alt="Article" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🚀 Key Projects & Softwares
 
 | Project | Logo | Tech / Role | Highlights |
 | :--- | :---: | :--- | :--- |
 | **[SilverHawk](https://silverhawk.pages.dev)** | <img src="https://silverhawk.pages.dev/assets/img/logo-mark-128.png" width="48" alt="SilverHawk Logo" /> | C# · Grasshopper · Rhino 8 | High-efficiency single & multi-objective meta-heuristic solver tailored for tight architectural evaluation budgets. |
 | **[Ambrosinus Toolkit (ATk)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit)** | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/10/logo_AL_bottle_ATk-01.svg" width="44" alt="Ambrosinus Toolkit Logo" /> | C# · Python · GH | Multi-purpose plugin bridging AI generation (Diffusion, ControlNet), environmental analysis, and data utilities. [Get on Food4Rhino](https://www.food4rhino.com/en/app/ambrosinus-toolkit) |
-| **[i-Mesh Facade Engineering](https://www.lucianoambrosini.it/#progetti)** | <img src="https://www.lucianoambrosini.it/assets/helix.jpg" width="58" style="border-radius: 4px;" alt="One Helix Facade" /> | Computational Consulting | Generative patterning, CAD/CAM automation, and solar shielding for mineral textile facades (One Helix UNStudio, Osaka 2025). |
-| **[The Dev-Sumer Manifesto](https://github.com/lucianoambrosini/Computational-Design-Manifesto)** | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/11/logo_AL_black-alembic_100.png" width="48" alt="Dev-Sumer Manifesto Logo" /> | Open Manifesto | 15 principles for architects who code, designers who build, and professionals refusing to sacrifice life for work. |
 | **[AmbrosinusDEV Suite](https://github.com/lucianoambrosini/AmbrosinusDEV)** | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/10/logo_AL_bottle-01.png" width="44" alt="AmbrosinusDEV Logo" /> | C# .NET / Python | Standalone utilities, WinSDLauncher, and custom scripts for computational workflows. |
 | **[Ambrosinus_Scripts](https://github.com/lucianoambrosini/Ambrosinus_Scripts)** | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/08/RhGH-icons_2_puzzle_1.png" width="48" alt="Ambrosinus Scripts Logo" /> | C# / Python · GH | Curated collection of Grasshopper & Rhinoceros custom scripts, CAD utilities, and parametric routines. |
 | **[ATk for ComfyUI](https://github.com/lucianoambrosini/ComfyUI-ATk-Nodes)** | <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/06/logo_ATk_ComfyUI.jpg" width="48" style="border-radius: 4px;" alt="ComfyUI Nodes Logo" /> | Python · Nodes | Custom nodes and workflow enhancements connecting generative image pipelines with architectural models. |
