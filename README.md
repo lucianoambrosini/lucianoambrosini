@@ -8,10 +8,11 @@
   ### Computational Architect · DEV Software Developer · Environmental Design Specialist
   
   <p>
-    <a href="https://www.lucianoambrosini.it"><img src="https://img.shields.io/badge/Official_Website-lucianoambrosini.it-00818e?style=for-the-badge&logo=google-chrome&logoColor=1a2223&labelColor=eeece4" alt="Website" /></a>
-    <a href="https://www.food4rhino.com/en/app/ambrosinus-toolkit"><img src="https://img.shields.io/badge/Food4Rhino-Ambrosinus_Toolkit-b81c5d?style=for-the-badge&logo=rhinoceros&logoColor=1a2223&labelColor=eeece4" alt="Food4Rhino" /></a>
+    <a href="https://www.lucianoambrosini.it"><img src="https://img.shields.io/badge/Website-lucianoambrosini.it-00818e?style=for-the-badge&logo=google-chrome&logoColor=1a2223&labelColor=eeece4" alt="Website" /></a>
     <a href="https://silverhawk.pages.dev"><img src="https://img.shields.io/badge/Solver-SilverHawk-009baa?style=for-the-badge&logoColor=1a2223&labelColor=eeece4" alt="SilverHawk" /></a>
-    <a href="https://scholar.google.com/citations?user=4wLQCqoAAAAJ&hl=it"><img src="https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=1a2223&labelColor=eeece4" alt="Google Scholar" /></a>
+    <a href="https://www.food4rhino.com/en/app/ambrosinus-toolkit"><img src="https://img.shields.io/badge/Food4Rhino-Ambrosinus_Toolkit-b81c5d?style=for-the-badge&logo=rhinoceros&logoColor=1a2223&labelColor=eeece4" alt="Food4Rhino" /></a>
+    <br/>
+    <a href="https://scholar.google.com/citations?user=4wLQCqoAAAAJ&hl=it"><img src="https://img.shields.io/badge/Scholar-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=1a2223&labelColor=eeece4" alt="Google Scholar" /></a>
     <a href="https://orcid.org/0000-0003-1529-2694"><img src="https://img.shields.io/badge/ORCID-0000--0003--1529--2694-82a92a?style=for-the-badge&logo=orcid&logoColor=1a2223&labelColor=eeece4" alt="ORCID" /></a>
     <a href="https://www.linkedin.com/in/lucianoambrosini/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=1a2223&labelColor=eeece4" alt="LinkedIn" /></a>
     <a href="https://www.wikidata.org/wiki/Q141936083" rel="me" title="Wikidata: Q141936083" aria-hidden="true"></a>
