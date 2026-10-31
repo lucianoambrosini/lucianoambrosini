@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" height="340" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradLight" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="60%" stop-color="#f7f6f0"/>
+      <stop offset="100%" stop-color="#eeece4"/>
+    </linearGradient>
+
+    <!-- Cyan Line -->
+    <linearGradient id="cyanLineLight" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00818e" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#00818e" stop-opacity="0.8"/>
+      <stop offset="75%" stop-color="#009baa" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#00818e" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="cyanRadialLight" cx="850" cy="170" r="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00818e" stop-opacity="0.08"/>
+      <stop offset="60%" stop-color="#00818e" stop-opacity="0.02"/>
+      <stop offset="100%" stop-color="#00818e" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Technical Grid Pattern -->
+    <pattern id="cadGridLight" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#d5dad3" stroke-width="0.6" stroke-opacity="0.7"/>
+      <circle cx="0" cy="0" r="0.8" fill="#00818e" fill-opacity="0.35"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .mono { font-family: "SFMono-Regular", Consolas, "JetBrains Mono", Menlo, Courier, monospace; }
+    .display { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Space Grotesk", Helvetica, Arial, sans-serif; }
+    .title { font-weight: 700; fill: #1a2223; letter-spacing: -0.03em; }
+    .eyebrow { font-weight: 600; fill: #00818e; letter-spacing: 0.16em; font-size: 11px; }
+    .tagline { font-weight: 400; fill: #3b4647; font-size: 14.5px; }
+    .tagline-em { font-weight: 600; fill: #b81c5d; font-style: italic; }
+    .meta-tag { font-size: 10px; fill: #5e6b6c; letter-spacing: 0.12em; }
+    .hud-coord { font-size: 10px; fill: #00818e; letter-spacing: 0.08em; font-weight: 600; }
+    .quote { font-style: italic; fill: #5e6b6c; font-size: 11px; }
+    .codex-line { stroke: #c0c6bd; stroke-width: 0.8; fill: none; }
+    .codex-highlight { stroke: #00818e; stroke-width: 1.1; fill: none; stroke-opacity: 0.85; }
+    .codex-pink { stroke: #b81c5d; stroke-width: 1.0; fill: none; stroke-opacity: 0.75; }
+  </style>
+
+  <!-- Base Plate & Grids -->
+  <rect width="1200" height="340" rx="10" fill="url(#bgGradLight)"/>
+  <rect width="1200" height="340" rx="10" fill="url(#cadGridLight)"/>
+  <rect width="1200" height="340" rx="10" fill="url(#cyanRadialLight)"/>
+
+  <!-- Border Frame -->
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="9.5" stroke="#d1d6ce" stroke-width="1" fill="none"/>
+
+  <!-- Top / Bottom Accent Rules -->
+  <line x1="40" y1="1" x2="1160" y2="1" stroke="url(#cyanLineLight)" stroke-width="2"/>
+  <line x1="40" y1="339" x2="1160" y2="339" stroke="url(#cyanLineLight)" stroke-width="1"/>
+
+  <!-- Corner Brackets -->
+  <path d="M 18 34 L 18 18 L 34 18" stroke="#00818e" stroke-width="1.5" fill="none" opacity="0.9"/>
+  <path d="M 1182 34 L 1182 18 L 1166 18" stroke="#00818e" stroke-width="1.5" fill="none" opacity="0.9"/>
+  <path d="M 18 306 L 18 322 L 34 322" stroke="#b2b8ad" stroke-width="1.5" fill="none"/>
+  <path d="M 1182 306 L 1182 322 L 1166 322" stroke="#b2b8ad" stroke-width="1.5" fill="none"/>
+
+  <!-- Right Geometric Rigor Layer -->
+  <g transform="translate(760, 20)" opacity="0.95">
+    <line x1="0" y1="0" x2="0" y2="300" stroke="#d1d6ce" stroke-width="1" stroke-dasharray="3 4"/>
+    <line x1="400" y1="0" x2="400" y2="300" stroke="#d1d6ce" stroke-width="1" stroke-dasharray="3 4"/>
+    <line x1="0" y1="150" x2="400" y2="150" stroke="#e0e4dd" stroke-width="0.8"/>
+
+    <g transform="translate(200, 150)">
+      <circle cx="0" cy="0" r="125" class="codex-line" stroke-dasharray="4 6"/>
+      <circle cx="0" cy="0" r="105" class="codex-line"/>
+      <circle cx="0" cy="0" r="75" class="codex-highlight"/>
+      <circle cx="0" cy="0" r="45" class="codex-line" stroke-dasharray="2 3"/>
+      <circle cx="0" cy="0" r="16" stroke="#b81c5d" stroke-width="1" fill="none" opacity="0.8"/>
+      <circle cx="0" cy="0" r="3" fill="#00818e"/>
+
+      <line x1="-135" y1="0" x2="135" y2="0" stroke="#b2b8ad" stroke-width="0.9"/>
+      <line x1="0" y1="-135" x2="0" y2="135" stroke="#b2b8ad" stroke-width="0.9"/>
+      <line x1="-95" y1="-95" x2="95" y2="95" stroke="#c9cfc5" stroke-width="0.7" stroke-dasharray="3 3"/>
+      <line x1="95" y1="-95" x2="-95" y2="95" stroke="#c9cfc5" stroke-width="0.7" stroke-dasharray="3 3"/>
+
+      <rect x="-75" y="-75" width="150" height="150" stroke="#c0c6bd" stroke-width="0.8" fill="none"/>
+      <rect x="-75" y="-75" width="150" height="150" stroke="#c0c6bd" stroke-width="0.8" fill="none" transform="rotate(45)"/>
+
+      <path d="M-125,0 C-75,-80 75,-40 125,-10" class="codex-highlight"/>
+      <path d="M-125,30 C-60,90 60,60 125,15" class="codex-pink"/>
+      <path d="M-90,-60 Q0,-120 90,-60" stroke="#00818e" stroke-width="0.8" stroke-dasharray="2 4" fill="none" opacity="0.6"/>
+
+      <circle cx="-62" cy="-48" r="2.5" fill="#00818e"/>
+      <circle cx="-28" cy="-68" r="2.5" fill="#b81c5d"/>
+      <circle cx="15" cy="-56" r="2.5" fill="#00818e"/>
+      <circle cx="68" cy="-22" r="2.5" fill="#00818e"/>
+      <circle cx="102" cy="-6" r="2.5" fill="#b81c5d"/>
+    </g>
+
+    <text x="20" y="24" class="mono hud-coord">FIELD · ATTRACTOR ACTIVE</text>
+    <text x="20" y="38" class="mono meta-tag">u / 0.520  v / 0.480  λ / 1.350</text>
+    <text x="240" y="285" class="mono hud-coord" text-anchor="end">NSGA-II · PARETO DOME</text>
+    <text x="380" y="146" class="mono meta-tag" text-anchor="end">φ = 1.618</text>
+    <text x="380" y="162" class="mono meta-tag" text-anchor="end">x* ≺ x</text>
+  </g>
+
+  <!-- Left Identity Layer -->
+  <g transform="translate(60, 52)">
+    <rect x="0" y="0" width="12" height="12" rx="6" fill="#00818e" fill-opacity="0.15"/>
+    <circle cx="6" cy="6" r="3" fill="#00818e"/>
+    <text x="22" y="9.5" class="display eyebrow">LA CONSULTING · ARCHITECTURE &amp; COMPUTATIONAL DESIGN · PhD</text>
+  </g>
+
+  <text x="60" y="118" class="display title" font-size="44">LUCIANO AMBROSINI</text>
+
+  <text x="60" y="156" class="display" font-size="18" fill="#1a2223" font-weight="500">
+    Architect Ph.D. <tspan fill="#b2b8ad">|</tspan> <tspan fill="#00818e">Computational Designer</tspan> <tspan fill="#b2b8ad">|</tspan> DEV Software Developer
+  </text>
+
+  <g transform="translate(60, 192)">
+    <text x="0" y="0" class="display tagline">
+      Progettare attraverso il codice. <tspan class="tagline-em">Pensare oltre.</tspan>
+    </text>
+    <text x="0" y="24" class="display" font-size="13" fill="#5e6b6c">
+      Algorithmic Engineering · Structural Mineral Textiles · Environmental Simulation · Meta-heuristic Solvers
+    </text>
+  </g>
+
+  <line x1="60" y1="242" x2="680" y2="242" stroke="#d1d6ce" stroke-width="1"/>
+
+  <g transform="translate(60, 276)">
+    <rect x="0" y="-14" width="128" height="24" rx="4" fill="#eeece4" stroke="#b2b8ad" stroke-width="1"/>
+    <text x="64" y="2" class="mono" font-size="10.5" fill="#00818e" text-anchor="middle" font-weight="600">C# · RHINO SDK</text>
+
+    <rect x="136" y="-14" width="138" height="24" rx="4" fill="#eeece4" stroke="#b2b8ad" stroke-width="1"/>
+    <text x="205" y="2" class="mono" font-size="10.5" fill="#1a2223" text-anchor="middle" font-weight="600">SILVERHAWK MOO</text>
+
+    <rect x="282" y="-14" width="168" height="24" rx="4" fill="#eeece4" stroke="#b2b8ad" stroke-width="1"/>
+    <text x="366" y="2" class="mono" font-size="10.5" fill="#b81c5d" text-anchor="middle" font-weight="600">AMBROSINUS TOOLKIT</text>
+
+    <rect x="458" y="-14" width="146" height="24" rx="4" fill="#eeece4" stroke="#b2b8ad" stroke-width="1"/>
+    <text x="531" y="2" class="mono" font-size="10.5" fill="#3b4647" text-anchor="middle" font-weight="500">i-Mesh CONSULTING</text>
+  </g>
+
+  <text x="60" y="318" class="mono quote">« Firmitas · Utilitas · Venustas » — Vitruvius | « Ars sine scientia nihil est » (1399)</text>
+  <text x="680" y="318" class="mono meta-tag" text-anchor="end">NAPOLI / MILANO · EST. 2020</text>
+</svg>
