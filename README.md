@@ -10,6 +10,7 @@
   <p>
     <a href="https://www.lucianoambrosini.it"><img src="https://img.shields.io/badge/Website-lucianoambrosini.it-00818e?style=for-the-badge&logo=google-chrome&logoColor=1a2223&labelColor=eeece4" alt="Website" /></a>
     <a href="https://silverhawk.pages.dev"><img src="https://img.shields.io/badge/Solver-SilverHawk-009baa?style=for-the-badge&logoColor=1a2223&labelColor=eeece4" alt="SilverHawk" /></a>
+    <a href="https://ambrosinus.altervista.org/blog/"><img src="https://img.shields.io/badge/Archive-Ambrosinus_Blog-00cfe6?style=for-the-badge&logoColor=1a2223&labelColor=eeece4" alt="Ambrosinus Archive" /></a>
     <a href="https://www.food4rhino.com/en/app/ambrosinus-toolkit"><img src="https://img.shields.io/badge/Food4Rhino-Ambrosinus_Toolkit-b81c5d?style=for-the-badge&logo=rhinoceros&logoColor=1a2223&labelColor=eeece4" alt="Food4Rhino" /></a>
     <br/>
     <a href="https://scholar.google.com/citations?user=4wLQCqoAAAAJ&hl=it"><img src="https://img.shields.io/badge/Scholar-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=1a2223&labelColor=eeece4" alt="Google Scholar" /></a>
@@ -30,6 +31,7 @@
 
 I am an **Architect Ph.D., Computational Designer & DEV Software Developer** based between Naples and Milan, operating internationally. My work bridges complex parametric geometry, high-performance C# / .NET software development for CAD environments (Rhinoceros & Grasshopper), generative AI workflows, and environmental microclimatic simulations.
 
+- 🔌 **Custom Plugin Development & AEC Software Automation**: Dedicated .NET C# / Python solutions, compiled .gha plugins, and interoperability pipelines bridging Rhinoceros, Grasshopper, and Autodesk Revit (Rhino.Inside & Dynamo).
 - 🏛️ **External Computational Consultant for i-Mesh**: Algorithmic engineering, geometric rationalization, and solar optimization for structural mineral textiles on flagship architecture (including **UNStudio One Helix**, **MCA Padiglione Italia Expo 2025 Osaka**, and **Expo Dubai**).
 - ⚙️ **Software & Tool Author**: Creator of the **Ambrosinus Toolkit (ATk)** for Grasshopper, **SilverHawk** multi-objective meta-heuristic solver, and AI workflow integrations.
 - 🔬 **Academic & Applied Research**: Ph.D. in Architecture & Computational Design (Federico II). Author of peer-reviewed papers on algorithmic tectonics, Ladybug microclimate assessment, and the *Environmental Halftone* methodology for cultural heritage.
@@ -41,10 +43,10 @@ Explore the complete portfolio, interactive papers graph, and tools suite on **[
 ### 🛠️ Tech Stack & Ecosystem
 
 ```
-Languages & SDKs  │  C# (.NET) · Python · RhinoCommon SDK · Grasshopper SDK · C++
-Parametric CAD    │  Rhinoceros 3D · Grasshopper · McNeel Ecosystem
+Languages & SDKs  │  C# (.NET) · Python · RhinoCommon SDK · Grasshopper SDK · Revit API · C++
+Parametric CAD    │  Rhinoceros 3D · Grasshopper · McNeel Ecosystem · Autodesk Revit · Rhino.Inside
 Environmental     │  Ladybug Tools · Solar Radiation · Daylight Factor · Microclimate (UTCI)
-Optimization      │  Meta-heuristic Algorithms · NSGA-II · Multi-Objective Pareto Solvers
+Optimization      │  Meta-heuristic Algorithms · NSGA-II · Surrogate Models · Multi-Objective Pareto Solvers
 AI & Generation   │  Stable Diffusion · ControlNet · ComfyUI Custom Nodes · LLM Agents in CAD
 Digital Fab       │  Geometric Rationalization · Panelization · Textile Architecture
 ```
